@@ -14,5 +14,9 @@
   {
     "name": "3Ex",
     "url": "https://www.3ex.com/fe-co-api/position/get_assets_list"
+  },
+  {
+    "name": "Bybit",
+    "url": "https://api.bybit.com/v5/announcements/index"
   }
 ]
