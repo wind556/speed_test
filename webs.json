@@ -22,5 +22,9 @@
   {
     "name": "X",
     "url": "https://www.x-exchange.xyz/fe-co-api/position/get_assets_list"
+  },
+  {
+    "name": "Monkey",
+    "url": "https://bff-prod.nbttfc365.com/api/forward/v1/perpetual/position/current"
   }
 ]
