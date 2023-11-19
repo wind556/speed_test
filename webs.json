@@ -26,5 +26,9 @@
   {
     "name": "Monkey",
     "url": "https://bff-prod.nbttfc365.com/api/forward/v1/perpetual/position/current"
+  },
+  {
+    "name": "Fameex",
+    "url": "https://proxy.fameex.com/v1/verify/swap/order_info"
   }
 ]
